@@ -18,7 +18,7 @@ Clone the repo and run the installer as root:
 
 ```bash
 git clone https://github.com/skfirdousali2000-eng/Vps-deploy-bot-v2.git
-cd vps-deploy-bot-v1
+cd Vps-deploy-bot-v2
 chmod +x install.sh
 sudo ./install.sh
 ```
