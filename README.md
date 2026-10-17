@@ -1,6 +1,6 @@
-# Evil Vps V1 Bot — LXC Edition
+# Rehan Vps V1 Bot — LXC Edition
 
-Made by **EVILSAAD**
+Made by **Rehan**
 Repo: https://github.com/evilsaad0-hash/vps-deploy-bot-v1.git
 
 Fully automated Discord bot for managing LXC/LXD-based VPS containers — creation, resizing, suspension, port forwarding, multi-node support, and admin controls, all from Discord.
