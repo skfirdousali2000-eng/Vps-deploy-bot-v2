@@ -1,7 +1,7 @@
 # Rehan Vps V1 Bot — LXC Edition
 
 Made by **Rehan**
-Repo: https://github.com/evilsaad0-hash/vps-deploy-bot-v1.git
+Repo: https://github.com/skfirdousali2000-eng/Vps-deploy-bot-v2.git
 
 Fully automated Discord bot for managing LXC/LXD-based VPS containers — creation, resizing, suspension, port forwarding, multi-node support, and admin controls, all from Discord.
 
@@ -17,7 +17,7 @@ Fully automated Discord bot for managing LXC/LXD-based VPS containers — creati
 Clone the repo and run the installer as root:
 
 ```bash
-git clone https://github.com/evilsaad0-hash/vps-deploy-bot-v1.git
+git clone https://github.com/skfirdousali2000-eng/Vps-deploy-bot-v2.git
 cd vps-deploy-bot-v1
 chmod +x install.sh
 sudo ./install.sh
